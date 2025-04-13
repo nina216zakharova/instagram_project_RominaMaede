@@ -1,0 +1,2 @@
+# instagram_project_RominaMaede
+ A terminal-based simulation of Instagram, built in Python. This project allows users to register, log in, publish posts and stories, interact with others through likes, comments, direct messages, and more — all via a clean, user-friendly command-line interface. Designed with clean code principles, error handling, and a modular structure to ensure an engaging experience.
