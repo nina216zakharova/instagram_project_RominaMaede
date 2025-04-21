@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "username": "sara123",
+      "caption": "امروز یه روز فوق‌العاده بود!",
+      "likes": ["romina_en"],
+      "comments": [
+        {"username": "test1", "comment": "عالی بود!"},
+        {"username": "test2", "comment": "کجا بودی؟"}
+      ],
+      "saved_by": [],
+      "date": "2025-04-14"
+    },
+    {
+      "id": 2,
+      "username": "milad_dev",
+      "caption": "کد زدن با قهوه می‌چسبه",
+      "likes": [],
+      "comments": [],
+      "saved_by": [],
+      "date": "2025-04-13"
+    }
+  ]

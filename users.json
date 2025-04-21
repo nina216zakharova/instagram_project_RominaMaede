@@ -1,0 +1,18 @@
+[
+    {
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "hashed_password1",
+      "followers": ["user2", "user3"],
+      "follow_requests": ["user4"],
+      "posts": [
+        {
+          "caption": "This is a sample post",
+          "likes": 10,
+          "comments": ["Nice post!", "Great!"],
+          "saved": 5
+        }
+      ]
+    }
+  ]
+
